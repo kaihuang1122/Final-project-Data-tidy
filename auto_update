@@ -1,0 +1,9 @@
+#!/bin/zsh
+cd /Users/kaihuang1122/Documents/ML/Final/html.2023.final.data
+git pull
+cd /Users/kaihuang1122/Documents/ML/Final/Data\ tidy
+mkdir $(date +%m%d)version
+./main.py $(date +%d)
+git add .
+git commit -m "$(date +%m%d) auto update"
+git push
