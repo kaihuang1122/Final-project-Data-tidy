@@ -8,6 +8,10 @@ With every stand have its own and only csv, which include every day and every no
 
 month, day, weekday, accumulated minutes (0-1439), capacity, bike amount
 
+## 有用的廢話
+
+將來可能可以試試看把其他資料也放上來？
 
 ## 沒用的廢話
+
 好想把gitignore也ignore掉
