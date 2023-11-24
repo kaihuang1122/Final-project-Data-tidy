@@ -15,3 +15,4 @@ month, day, weekday, accumulated minutes (0-1439), capacity, bike amount
 ## 沒用的廢話
 
 好想把gitignore也ignore掉
+國慶連假連Ubike統計系統也一起放假了嗎？
