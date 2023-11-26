@@ -25,7 +25,7 @@ for port in target:
         #print(day, int(port))
         with open(prifix+day[0]+day[1]+mid+str(int(port))+suffix) as fh:
             data = json.load(fh)
-        mdw = day[0]+','+day[1]+','+week_convert(int(day[0]), int(day[1]))+','
+        mdw = day[0]+','+str(int(day[1]))+','+week_convert(int(day[0]), int(day[1]))+','
         for hour in range(24):
             for minute in range(60):
                 temp = data["%02d:%02d"%(hour, minute)]
