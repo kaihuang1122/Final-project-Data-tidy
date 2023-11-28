@@ -5,5 +5,5 @@ cd /Users/kaihuang1122/Documents/ML/Final/Data\ tidy
 mkdir $(date +%m%d)version
 ./main.py $(date +%d)
 git add .
-git commit -m "$(date +%m%d) auto update"
+git commit -m "$(date +%m%d) bike auto update"
 git push

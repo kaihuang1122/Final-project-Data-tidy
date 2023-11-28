@@ -6,7 +6,11 @@ With every stand have its own and only csv, which include every day and every no
 
 ## CSV type
 
+### Bile: MMDDversion/stationID.csv
 month, day, weekday, accumulated minutes (0-1439), capacity, bike amount
+
+### Weather: weather_data.csv
+month, day, accumulated minutes, temperature, rainfall, relative humidity
 
 ## 有用的廢話
 
