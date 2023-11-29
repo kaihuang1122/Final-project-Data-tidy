@@ -4,7 +4,9 @@
 
 整理完放在Weather資料夾裡，叫做 Weatherdata.csv
 headers:
-ID (Epoch timestamp), month, day, accumulated minutes, temperature, rainfall, relative humidity
+ID, month, day, accumulated minutes, temperature, rainfall, relative humidity
+
+不出意外的話，今後的天氣資料會變成日更
 
 ## Tidied Status
 
@@ -13,7 +15,7 @@ With every stand have its own and only csv, which include every day and every no
 ## CSV type
 
 ### Bike: MMDDversion/stationID.csv
-month, day, weekday, accumulated minutes (0-1439), capacity, bike amount
+ID, month, day, weekday, accumulated minutes (0-1439), capacity, bike amount
 
 ### Weather: weather_data.csv
 month, day, accumulated minutes, temperature, rainfall, relative humidity
