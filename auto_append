@@ -1,0 +1,8 @@
+#!/bin/zsh
+cd /Users/kaihuang1122/Documents/ML/Final/Collecting
+./main.py
+cd appending
+./append.py
+./accumulate.py
+cd /Users/kaihuang1122/Documents/ML/Final/Data\ tidy/Weather
+./main.py
