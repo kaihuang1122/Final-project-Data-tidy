@@ -1,6 +1,10 @@
 # Final Project Data Tidy
 
-## 11/29 拿到觀測坪資料了但我正在想辦法讀懂他zzz
+## 11/29 UPD 拿到觀測坪資料了
+
+整理完放在Weather資料夾裡，叫做 Weatherdata.csv
+headers:
+ID (Epoch timestamp), month, day, accumulated minutes, temperature, rainfall, relative humidity
 
 ## Tidied Status
 
@@ -22,11 +26,3 @@ month, day, accumulated minutes, temperature, rainfall, relative humidity
 
 好想把gitignore也ignore掉
 國慶連假連Ubike統計系統也一起放假了嗎？
-
-## 11/29 Weather UPD
-
-新增填充資料，以對齊分鐘資料，採$[i-5, i+5)$填充為$i$
-給予 ID = Epoch timestamp 方便資料對齊
-放在 Weather 資料夾
-headers:
-ID (Epoch timestamp), month, day, accumulated minutes, temperature, rainfall, relative humidity
