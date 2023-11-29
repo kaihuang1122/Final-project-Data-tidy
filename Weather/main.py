@@ -14,7 +14,15 @@ for i in table:
         now_epoch = datetime.fromtimestamp(epoch+(j-5)*60)
         new_table.append([str(epoch+(j-5)*60), str(now_epoch.month), str(now_epoch.day), str(now_epoch.hour), str(now_epoch.minute), str(now_epoch.hour*60+now_epoch.minute)]+i[3:])
 
-fout = open("/Users/kaihuang1122/Documents/ML/Final/Data tidy/Weather/CollectedWeather.csv", "w")
+
+with open("/Users/kaihuang1122/Documents/ML/Final/Data tidy/NTUAS_tidy/Total/data.csv") as fin:
+    control = list(csv.reader(fin))
+
+for i in new_table:
+    if int(i[0]) > 1701100740:
+        control.append(i)
+
+fout = open("/Users/kaihuang1122/Documents/ML/Final/Data tidy/Weather/Weatherdata.csv", "w")
 fout.write("ID (Epoch timestamp), month, day, hour, minute, accumulated minutes, temperature, rainfall, relative humidity\n")
 writer = csv.writer(fout)
-writer.writerows(new_table)
+writer.writerows(control)
