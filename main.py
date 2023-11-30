@@ -12,8 +12,10 @@ prifix = "/Users/kaihuang1122/Documents/ML/Final/html.2023.final.data/release/20
 month = ["10", "11"]
 day10 = ["%02d"% x for x in list(range(2, 12))+list(range(15,21))+list(range(25, 32))]
 day10 = [["10", x] for x in day10]
-day11 = ["%02d"% x for x in range(1,int(sys.argv[1]))]
+day11 = ["%02d"% x for x in range(1,31)]
 day11 = [["11", x] for x in day11]
+day12 = ["%02d"% x for x in range(1,int(sys.argv[1]))]
+day12 = [["12", x] for x in day12]
 mid = "/"
 target = list(target)
 suffix = ".json"
@@ -24,7 +26,7 @@ for port in target:
     port_fh = open(my_prifix+"/"+str(int(port))+".csv", "w")
     writter = csv.writer(port_fh)
     port_fh.write("ID, month, day, weekday, accumulated minutes, capacity, bike amount\n")
-    for day in day10+day11:
+    for day in day10+day11+day12:
         #print(day, int(port))
         with open(prifix+day[0]+day[1]+mid+str(int(port))+suffix) as fh:
             data = json.load(fh)
