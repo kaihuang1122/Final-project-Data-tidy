@@ -1,5 +1,13 @@
 # Final Project Data Tidy
 
+## 11/30 UPD 發布預測資料
+
+型態為： 預報時間 溫度 雨量 相對濕度
+
+每六小時一筆，從11/30 06:00 - 12/08 18:00
+
+存在 Predict weather 資料夾
+
 ## 11/29 UPD 拿到觀測坪資料了
 
 整理完放在Weather資料夾裡，叫做 Weatherdata.csv
