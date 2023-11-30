@@ -21,7 +21,7 @@ target = list(target)
 suffix = ".json"
 
 
-my_prifix = "/Users/kaihuang1122/Documents/ML/Final/Data tidy/11"+sys.argv[1]+"version"
+my_prifix = "/Users/kaihuang1122/Documents/ML/Final/Data tidy/12"+sys.argv[1]+"version"
 for port in target:
     port_fh = open(my_prifix+"/"+str(int(port))+".csv", "w")
     writter = csv.writer(port_fh)
