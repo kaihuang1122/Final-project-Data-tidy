@@ -1,0 +1,26 @@
+#!/sbin/zsh
+while 1 do
+    cd ../../Final/Collecting
+    ./main.py
+    cd appending
+    ./append.py
+    ./accumulate.py
+    cd ../../../Final/Data\ tidy/Weather
+    ./main.py
+    ./fix.py
+    # now is bike
+    cd ../../../Final/html.2023.final.data
+    git pull
+    cd ../../Final/Data\ tidy
+    mkdir $(date +%m%d)version
+    ./main.py $(date +%d)
+    git add .
+    git commit -m "$(date) tidy auto update"
+    git push
+    cd ..
+    git add .
+    git commit -m "$(date) final auto update"
+    git push
+    cd /Data\ tidy
+    sleep 2000
+done
