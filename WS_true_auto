@@ -1,5 +1,6 @@
 #!/sbin/zsh
-while 1 do
+while [1] 
+do
     cd ../../Final/Collecting
     ./main.py
     cd appending
