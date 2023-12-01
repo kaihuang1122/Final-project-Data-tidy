@@ -1,18 +1,18 @@
-#!/sbin/zsh
-while [1] 
+#!/bin/zsh
+while true
 do
-    cd ../../Final/Collecting
+    cd /Users/kaihuang1122/Documents/ML/Final/Collecting
     ./main.py
     cd appending
     ./append.py
     ./accumulate.py
-    cd ../../../Final/Data\ tidy/Weather
+    cd /Users/kaihuang1122/Documents/ML/Final/Data\ tidy/Weather
     ./main.py
     ./fix.py
     # now is bike
-    cd ../../../Final/html.2023.final.data
+    cd /Users/kaihuang1122/Documents/ML/Final/html.2023.final.data
     git pull
-    cd ../../Final/Data\ tidy
+    cd /Users/kaihuang1122/Documents/ML/Final/Data\ tidy
     mkdir $(date +%m%d)version
     ./main.py $(date +%d)
     git add .
