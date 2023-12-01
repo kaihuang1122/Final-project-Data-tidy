@@ -22,6 +22,6 @@ do
     git add .
     git commit -m "$(date) final auto update"
     git push
-    cd /Data\ tidy
+    cd Data\ tidy
     sleep 2000
 done

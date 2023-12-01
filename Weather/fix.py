@@ -1,3 +1,5 @@
+#! /Library/Frameworks/Python.framework/Versions/3.11/bin/python3
+
 from collections import deque
 from datetime import datetime
 import csv
