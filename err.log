@@ -242,171 +242,128 @@ Updating 5b218e3d0..b1eb9d302
 get
 144
 Updating 5b218e3d0..20f147e7d
-elease/20231201/500101102.json
-	release/20231201/500101103.json
-	release/20231201/500101104.json
-	release/20231201/500101105.json
-	release/20231201/500101107.json
-	release/20231201/500101108.json
-	release/20231201/500101109.json
-	release/20231201/500101110.json
-	release/20231201/500101111.json
-	release/20231201/500101113.json
-	release/20231201/500101114.json
-	release/20231201/500101115.json
-	release/20231201/500101116.json
-	release/20231201/500101117.json
-	release/20231201/500101118.json
-	release/20231201/500101119.json
-	release/20231201/500101120.json
-	release/20231201/500101122.json
-	release/20231201/500101123.json
-	release/20231201/500101124.json
-	release/20231201/500101125.json
-	release/20231201/500101126.json
-	release/20231201/500101127.json
-	release/20231201/500101128.json
-	release/20231201/500101129.json
-	release/20231201/500101130.json
-	release/20231201/500101131.json
-	release/20231201/500101132.json
-	release/20231201/500101133.json
-	release/20231201/500101134.json
-	release/20231201/500101135.json
-	release/20231201/500101136.json
-	release/20231201/500101137.json
-	release/20231201/500101138.json
-	release/20231201/500101139.json
-	release/20231201/500101140.json
-	release/20231201/500101141.json
-	release/20231201/500101142.json
-	release/20231201/500101143.json
-	release/20231201/500101144.json
-	release/20231201/500101145.json
-	release/20231201/500101146.json
-	release/20231201/500101147.json
-	release/20231201/500101148.json
-	release/20231201/500101149.json
-	release/20231201/500101150.json
-	release/20231201/500101151.json
-	release/20231201/500101152.json
-	release/20231201/500101153.json
-	release/20231201/500101154.json
-	release/20231201/500101155.json
-	release/20231201/500101156.json
-	release/20231201/500101157.json
-	release/20231201/500101158.json
-	release/20231201/500101159.json
-	release/20231201/500101160.json
-	release/20231201/500101161.json
-	release/20231201/500101163.json
-	release/20231201/500101165.json
-	release/20231201/500101166.json
-	release/20231201/500101167.json
-	release/20231201/500101168.json
-	release/20231201/500101169.json
-	release/20231201/500101170.json
-	release/20231201/500101171.json
-	release/20231201/500101172.json
-	release/20231201/500101173.json
-	release/20231201/500101174.json
-	release/20231201/500101175.json
-	release/20231201/500101176.json
-	release/20231201/500101177.json
-	release/20231201/5001
-Aborting
-mkdir: 1201version: File exists
-To github.com:kaihuang1122/Final-project-Data-tidy.git
-   3e2d4a1..74fe84e  main -> main
-To github.com:kaihuang1122/ML-final.git
-   343dcf5..5555be9  main -> main
-From github.com:hyusterr/html.2023.final.data
-   662d7f2ff..b1eb9d302  release    -> origin/release
-error: Your local changes to the following files would be overwritten by merge:
-	release/20231201/500101001.json
-	release/20231201/500101002.json
-	release/20231201/500101003.json
-	release/20231201/500101004.json
-	release/20231201/500101005.json
-	release/20231201/500101006.json
-	release/20231201/500101007.json
-	release/20231201/500101008.json
-	release/20231201/500101009.json
-	release/20231201/500101010.json
-	release/20231201/500101012.json
-	release/20231201/500101013.json
-	release/20231201/500101014.json
-	release/20231201/500101015.json
-	release/20231201/500101016.json
-	release/20231201/500101018.json
-	release/20231201/500101019.json
-	release/20231201/500101020.json
-	release/20231201/500101021.json
-	release/20231201/500101022.json
-	release/20231201/500101023.json
-	release/20231201/500101024.json
-	release/20231201/500101025.json
-	release/20231201/500101026.json
-	release/20231201/500101027.json
-	release/20231201/500101028.json
-	release/20231201/500101029.json
-	release/20231201/500101030.json
-	release/20231201/500101031.json
-	release/20231201/500101032.json
-	release/20231201/500101033.json
-	release/20231201/500101034.json
-	release/20231201/500101035.json
-	release/20231201/500101036.json
-	release/20231201/500101037.json
-	release/20231201/500101038.json
-	release/20231201/500101039.json
-	release/20231201/500101040.json
-	release/20231201/500101041.json
-	release/20231201/500101042.json
-	release/20231201/500101091.json
-	release/20231201/500101092.json
-	release/20231201/500101093.json
-	release/20231201/500101094.json
-	release/20231201/500101095.json
-	release/20231201/500101097.json
-	release/20231201/500101098.json
-	release/20231201/500101099.json
-	release/20231201/500101100.json
-	release/20231201/500101101.json
-	release/20231201/500101102.json
-	release/20231201/500101103.json
-	release/20231201/500101104.json
-	release/20231201/500101105.json
-	release/20231201/500101107.json
-	release/20231201/500101108.json
-	release/20231201/500101109.json
-	release/20231201/500101110.json
-	release/20231201/500101111.json
-	release/20231201/500101113.json
-	release/20231201/500101114.json
-	release/20231201/500101115.json
-	release/20231201/500101116.json
-	release/20231201/500101117.json
-	release/20231201/500101118.json
-	release/20231201/500101119.json
-	release/20231201/500101120.json
-	release/20231201/500101122.json
-	release/20231201/500101123.json
-	release/20231201/500101124.json
-	release/20231201/500101125.json
-	release/20231201/500101126.json
-	release/20231201/500101127.json
-	release/20231201/500101128.json
-	release/20231201/500101129.json
-	release/20231201/500101130.json
-	release/20231201/500101131.json
-	release/20231201/500101132.json
-	release/20231201/500101133.json
-	release/20231201/500101134.json
-	release/20231201/500101135.json
-	release/20231201/500101136.json
-	release/20231201/500101137.json
-	release/20231201/500101138.json
+[main f395a0d] 12/02/00:25 tidy auto update
+ 115 files changed, 7902422 insertions(+), 5 deletions(-)
+ create mode 100644 1202version/500101001.csv
+ create mode 100644 1202version/500101002.csv
+ create mode 100644 1202version/500101003.csv
+ create mode 100644 1202version/500101004.csv
+ create mode 100644 1202version/500101005.csv
+ create mode 100644 1202version/500101006.csv
+ create mode 100644 1202version/500101007.csv
+ create mode 100644 1202version/500101008.csv
+ create mode 100644 1202version/500101009.csv
+ create mode 100644 1202version/500101010.csv
+ create mode 100644 1202version/500101013.csv
+ create mode 100644 1202version/500101014.csv
+ create mode 100644 1202version/500101015.csv
+ create mode 100644 1202version/500101018.csv
+ create mode 100644 1202version/500101019.csv
+ create mode 100644 1202version/500101020.csv
+ create mode 100644 1202version/500101021.csv
+ create mode 100644 1202version/500101022.csv
+ create mode 100644 1202version/500101023.csv
+ create mode 100644 1202version/500101024.csv
+ create mode 100644 1202version/500101025.csv
+ create mode 100644 1202version/500101026.csv
+ create mode 100644 1202version/500101027.csv
+ create mode 100644 1202version/500101028.csv
+ create mode 100644 1202version/500101029.csv
+ create mode 100644 1202version/500101030.csv
+ create mode 100644 1202version/500101031.csv
+ create mode 100644 1202version/500101032.csv
+ create mode 100644 1202version/500101033.csv
+ create mode 100644 1202version/500101034.csv
+ create mode 100644 1202version/500101035.csv
+ create mode 100644 1202version/500101036.csv
+ create mode 100644 1202version/500101037.csv
+ create mode 100644 1202version/500101038.csv
+ create mode 100644 1202version/500101039.csv
+ create mode 100644 1202version/500101040.csv
+ create mode 100644 1202version/500101041.csv
+ create mode 100644 1202version/500101042.csv
+ create mode 100644 1202version/500101091.csv
+ create mode 100644 1202version/500101092.csv
+ create mode 100644 1202version/500101093.csv
+ create mode 100644 1202version/500101094.csv
+ create mode 100644 1202version/500101114.csv
+ create mode 100644 1202version/500101115.csv
+ create mode 100644 1202version/500101123.csv
+ create mode 100644 1202version/500101166.csv
+ create mode 100644 1202version/500101175.csv
+ create mode 100644 1202version/500101176.csv
+ create mode 100644 1202version/500101181.csv
+ create mode 100644 1202version/500101184.csv
+ create mode 100644 1202version/500101185.csv
+ create mode 100644 1202version/500101188.csv
+ create mode 100644 1202version/500101189.csv
+ create mode 100644 1202version/500101190.csv
+ create mode 100644 1202version/500101191.csv
+ create mode 100644 1202version/500101193.csv
+ create mode 100644 1202version/500101199.csv
+ create mode 100644 1202version/500101209.csv
+ create mode 100644 1202version/500101216.csv
+ create mode 100644 1202version/500101219.csv
+ create mode 100644 1202version/500105066.csv
+ create mode 100644 1202version/500106002.csv
+ create mode 100644 1202version/500106003.csv
+ create mode 100644 1202version/500106004.csv
+ create mode 100644 1202version/500119043.csv
+ create mode 100644 1202version/500119044.csv
+ create mode 100644 1202version/500119045.csv
+ create mode 100644 1202version/500119046.csv
+ create mode 100644 1202version/500119047.csv
+ create mode 100644 1202version/500119048.csv
+ create mode 100644 1202version/500119049.csv
+ create mode 100644 1202version/500119050.csv
+ create mode 100644 1202version/500119051.csv
+ create mode 100644 1202version/500119052.csv
+ create mode 100644 1202version/500119053.csv
+ create mode 100644 1202version/500119054.csv
+ create mode 100644 1202version/500119055.csv
+ create mode 100644 1202version/500119056.csv
+ create mode 100644 1202version/500119057.csv
+ create mode 100644 1202version/500119058.csv
+ create mode 100644 1202version/500119059.csv
+ create mode 100644 1202version/500119060.csv
+ create mode 100644 1202version/500119061.csv
+ create mode 100644 1202version/500119062.csv
+ create mode 100644 1202version/500119063.csv
+ create mode 100644 1202version/500119064.csv
+ create mode 100644 1202version/500119065.csv
+ create mode 100644 1202version/500119066.csv
+ create mode 100644 1202version/500119067.csv
+ create mode 100644 1202version/500119068.csv
+ create mode 100644 1202version/500119069.csv
+ create mode 100644 1202version/500119070.csv
+ create mode 100644 1202version/500119071.csv
+ create mode 100644 1202version/500119072.csv
+ create mode 100644 1202version/500119074.csv
+ create mode 100644 1202version/500119075.csv
+ create mode 100644 1202version/500119076.csv
+ create mode 100644 1202version/500119077.csv
+ create mode 100644 1202version/500119078.csv
+ create mode 100644 1202version/500119079.csv
+ create mode 100644 1202version/500119080.csv
+ create mode 100644 1202version/500119081.csv
+ create mode 100644 1202version/500119082.csv
+ create mode 100644 1202version/500119083.csv
+ create mode 100644 1202version/500119084.csv
+ create mode 100644 1202version/500119085.csv
+ create mode 100644 1202version/500119086.csv
+ create mode 100644 1202version/500119087.csv
+ create mode 100644 1202version/500119088.csv
+ create mode 100644 1202version/500119089.csv
+ create mode 100644 1202version/500119090.csv
+ create mode 100644 1202version/500119091.csv
+[main e77d83f] 12/02/00:26 final auto update
+ 6 files changed, 88774 insertions(+), 15 deletions(-)
+ create mode 100644 Combination/1002-1021/play.py
+ create mode 100644 MLP GPT/output/predict/transportition/output.csv
+get
+145
+Updating 5b218e3d0..57c5f10c4
+138.json
 	release/20231201/500101139.json
 	release/20231201/500101140.json
 	release/20231201/500101141.json
@@ -577,3 +534,134 @@ error: Your local changes to the following files would be overwritten by merge:
 	release/20231201/500101177.json
 	release/20231201/5001
 Aborting
+To github.com:kaihuang1122/Final-project-Data-tidy.git
+   db1360e..f395a0d  main -> main
+To github.com:kaihuang1122/ML-final.git
+   549ca0f..e77d83f  main -> main
+From github.com:hyusterr/html.2023.final.data
+   20f147e7d..57c5f10c4  release    -> origin/release
+error: Your local changes to the following files would be overwritten by merge:
+	release/20231201/500101001.json
+	release/20231201/500101002.json
+	release/20231201/500101003.json
+	release/20231201/500101004.json
+	release/20231201/500101005.json
+	release/20231201/500101006.json
+	release/20231201/500101007.json
+	release/20231201/500101008.json
+	release/20231201/500101009.json
+	release/20231201/500101010.json
+	release/20231201/500101012.json
+	release/20231201/500101013.json
+	release/20231201/500101014.json
+	release/20231201/500101015.json
+	release/20231201/500101016.json
+	release/20231201/500101018.json
+	release/20231201/500101019.json
+	release/20231201/500101020.json
+	release/20231201/500101021.json
+	release/20231201/500101022.json
+	release/20231201/500101023.json
+	release/20231201/500101024.json
+	release/20231201/500101025.json
+	release/20231201/500101026.json
+	release/20231201/500101027.json
+	release/20231201/500101028.json
+	release/20231201/500101029.json
+	release/20231201/500101030.json
+	release/20231201/500101031.json
+	release/20231201/500101032.json
+	release/20231201/500101033.json
+	release/20231201/500101034.json
+	release/20231201/500101035.json
+	release/20231201/500101036.json
+	release/20231201/500101037.json
+	release/20231201/500101038.json
+	release/20231201/500101039.json
+	release/20231201/500101040.json
+	release/20231201/500101041.json
+	release/20231201/500101042.json
+	release/20231201/500101091.json
+	release/20231201/500101092.json
+	release/20231201/500101093.json
+	release/20231201/500101094.json
+	release/20231201/500101095.json
+	release/20231201/500101097.json
+	release/20231201/500101098.json
+	release/20231201/500101099.json
+	release/20231201/500101100.json
+	release/20231201/500101101.json
+	release/20231201/500101102.json
+	release/20231201/500101103.json
+	release/20231201/500101104.json
+	release/20231201/500101105.json
+	release/20231201/500101107.json
+	release/20231201/500101108.json
+	release/20231201/500101109.json
+	release/20231201/500101110.json
+	release/20231201/500101111.json
+	release/20231201/500101113.json
+	release/20231201/500101114.json
+	release/20231201/500101115.json
+	release/20231201/500101116.json
+	release/20231201/500101117.json
+	release/20231201/500101118.json
+	release/20231201/500101119.json
+	release/20231201/500101120.json
+	release/20231201/500101122.json
+	release/20231201/500101123.json
+	release/20231201/500101124.json
+	release/20231201/500101125.json
+	release/20231201/500101126.json
+	release/20231201/500101127.json
+	release/20231201/500101128.json
+	release/20231201/500101129.json
+	release/20231201/500101130.json
+	release/20231201/500101131.json
+	release/20231201/500101132.json
+	release/20231201/500101133.json
+	release/20231201/500101134.json
+	release/20231201/500101135.json
+	release/20231201/500101136.json
+	release/20231201/500101137.json
+	release/20231201/500101138.json
+	release/20231201/500101139.json
+	release/20231201/500101140.json
+	release/20231201/500101141.json
+	release/20231201/500101142.json
+	release/20231201/500101143.json
+	release/20231201/500101144.json
+	release/20231201/500101145.json
+	release/20231201/500101146.json
+	release/20231201/500101147.json
+	release/20231201/500101148.json
+	release/20231201/500101149.json
+	release/20231201/500101150.json
+	release/20231201/500101151.json
+	release/20231201/500101152.json
+	release/20231201/500101153.json
+	release/20231201/500101154.json
+	release/20231201/500101155.json
+	release/20231201/500101156.json
+	release/20231201/500101157.json
+	release/20231201/500101158.json
+	release/20231201/500101159.json
+	release/20231201/500101160.json
+	release/20231201/500101161.json
+	release/20231201/500101163.json
+	release/20231201/500101165.json
+	release/20231201/500101166.json
+	release/20231201/500101167.json
+	release/20231201/500101168.json
+	release/20231201/500101169.json
+	release/20231201/500101170.json
+	release/20231201/500101171.json
+	release/20231201/500101172.json
+	release/20231201/500101173.json
+	release/20231201/500101174.json
+	release/20231201/500101175.json
+	release/20231201/500101176.json
+	release/20231201/500101177.json
+	release/20231201/5001
+Aborting
+mkdir: 1202version: File exists
