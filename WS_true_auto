@@ -16,11 +16,11 @@ do
     mkdir $(date +%m%d)version
     ./main.py $(date +%d)
     git add .
-    git commit -m "$(date) tidy auto update"
+    git commit -m "$(date +%m/%d/%H:%M) tidy auto update"
     git push
     cd ..
     git add .
-    git commit -m "$(date) final auto update"
+    git commit -m "$(date +%m/%d/%H:%M) final auto update"
     git push
     cd Data\ tidy
     sleep 2000
