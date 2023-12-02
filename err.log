@@ -1362,75 +1362,138 @@ error: Your local changes to the following files would be overwritten by merge:
 	release/20231201/5001
 Aborting
 mkdir: 1202version: File exists
-lete mode 100644 MLP GPT/log/predict/500119077.out
- delete mode 100644 MLP GPT/log/predict/500119078.out
- delete mode 100644 MLP GPT/log/predict/500119079.out
- delete mode 100644 MLP GPT/log/predict/500119080.out
- delete mode 100644 MLP GPT/log/predict/500119081.out
- delete mode 100644 MLP GPT/log/predict/500119082.out
- delete mode 100644 MLP GPT/log/predict/500119083.out
- delete mode 100644 MLP GPT/log/predict/500119084.out
- delete mode 100644 MLP GPT/log/predict/500119085.out
- delete mode 100644 MLP GPT/log/predict/500119086.out
- delete mode 100644 MLP GPT/log/predict/500119087.out
- delete mode 100644 MLP GPT/log/predict/500119088.out
- delete mode 100644 MLP GPT/log/predict/500119089.out
- delete mode 100644 MLP GPT/log/predict/500119090.out
- delete mode 100644 MLP GPT/log/predict/500119091.out
- rename MLP GPT/log/{predict => predict[e=2]}/500101001.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101002.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101003.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101004.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101005.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101006.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101007.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101008.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101009.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101010.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101013.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101014.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101015.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101018.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101019.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101020.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101021.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101022.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101023.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101024.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101025.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101026.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101027.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101028.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101029.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101030.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101031.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101032.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101033.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101034.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101035.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101036.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101037.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101038.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101039.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101040.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101041.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101042.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101091.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101092.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101093.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101094.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101114.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101115.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101123.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101166.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101175.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101176.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101181.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101184.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101185.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101188.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101189.out (100%)
- rename MLP GPT/log/{predict => predict[e=2]}/500101190.out (100%)
+To github.com:kaihuang1122/Final-project-Data-tidy.git
+   38ab4c6..d1cde97  main -> main
+To github.com:kaihuang1122/ML-final.git
+   281d8b4..85c7560  main -> main
+From github.com:hyusterr/html.2023.final.data
+   87b90e0552..f2a4ed739b  release    -> origin/release
+error: Your local changes to the following files would be overwritten by merge:
+	release/20231201/500101001.json
+	release/20231201/500101002.json
+	release/20231201/500101003.json
+	release/20231201/500101004.json
+	release/20231201/500101005.json
+	release/20231201/500101006.json
+	release/20231201/500101007.json
+	release/20231201/500101008.json
+	release/20231201/500101009.json
+	release/20231201/500101010.json
+	release/20231201/500101012.json
+	release/20231201/500101013.json
+	release/20231201/500101014.json
+	release/20231201/500101015.json
+	release/20231201/500101016.json
+	release/20231201/500101018.json
+	release/20231201/500101019.json
+	release/20231201/500101020.json
+	release/20231201/500101021.json
+	release/20231201/500101022.json
+	release/20231201/500101023.json
+	release/20231201/500101024.json
+	release/20231201/500101025.json
+	release/20231201/500101026.json
+	release/20231201/500101027.json
+	release/20231201/500101028.json
+	release/20231201/500101029.json
+	release/20231201/500101030.json
+	release/20231201/500101031.json
+	release/20231201/500101032.json
+	release/20231201/500101033.json
+	release/20231201/500101034.json
+	release/20231201/500101035.json
+	release/20231201/500101036.json
+	release/20231201/500101037.json
+	release/20231201/500101038.json
+	release/20231201/500101039.json
+	release/20231201/500101040.json
+	release/20231201/500101041.json
+	release/20231201/500101042.json
+	release/20231201/500101091.json
+	release/20231201/500101092.json
+	release/20231201/500101093.json
+	release/20231201/500101094.json
+	release/20231201/500101095.json
+	release/20231201/500101097.json
+	release/20231201/500101098.json
+	release/20231201/500101099.json
+	release/20231201/500101100.json
+	release/20231201/500101101.json
+	release/20231201/500101102.json
+	release/20231201/500101103.json
+	release/20231201/500101104.json
+	release/20231201/500101105.json
+	release/20231201/500101107.json
+	release/20231201/500101108.json
+	release/20231201/500101109.json
+	release/20231201/500101110.json
+	release/20231201/500101111.json
+	release/20231201/500101113.json
+	release/20231201/500101114.json
+	release/20231201/500101115.json
+	release/20231201/500101116.json
+	release/20231201/500101117.json
+	release/20231201/500101118.json
+	release/20231201/500101119.json
+	release/20231201/500101120.json
+	release/20231201/500101122.json
+	release/20231201/500101123.json
+	release/20231201/500101124.json
+	release/20231201/500101125.json
+	release/20231201/500101126.json
+	release/20231201/500101127.json
+	release/20231201/500101128.json
+	release/20231201/500101129.json
+	release/20231201/500101130.json
+	release/20231201/500101131.json
+	release/20231201/500101132.json
+	release/20231201/500101133.json
+	release/20231201/500101134.json
+	release/20231201/500101135.json
+	release/20231201/500101136.json
+	release/20231201/500101137.json
+	release/20231201/500101138.json
+	release/20231201/500101139.json
+	release/20231201/500101140.json
+	release/20231201/500101141.json
+	release/20231201/500101142.json
+	release/20231201/500101143.json
+	release/20231201/500101144.json
+	release/20231201/500101145.json
+	release/20231201/500101146.json
+	release/20231201/500101147.json
+	release/20231201/500101148.json
+	release/20231201/500101149.json
+	release/20231201/500101150.json
+	release/20231201/500101151.json
+	release/20231201/500101152.json
+	release/20231201/500101153.json
+	release/20231201/500101154.json
+	release/20231201/500101155.json
+	release/20231201/500101156.json
+	release/20231201/500101157.json
+	release/20231201/500101158.json
+	release/20231201/500101159.json
+	release/20231201/500101160.json
+	release/20231201/500101161.json
+	release/20231201/500101163.json
+	release/20231201/500101165.json
+	release/20231201/500101166.json
+	release/20231201/500101167.json
+	release/20231201/500101168.json
+	release/20231201/500101169.json
+	release/20231201/500101170.json
+	release/20231201/500101171.json
+	release/20231201/500101172.json
+	release/20231201/500101173.json
+	release/20231201/500101174.json
+	release/20231201/500101175.json
+	release/20231201/500101176.json
+	release/20231201/500101177.json
+	release/20231201/5001
+Aborting
+mkdir: 1202version: File exists
+}/500101190.out (100%)
  rename MLP GPT/log/{predict => predict[e=2]}/500101191.out (100%)
  rename MLP GPT/log/{predict => predict[e=2]}/500101193.out (100%)
  rename MLP GPT/log/{predict => predict[e=2]}/500101199.out (100%)
@@ -3809,3 +3872,95 @@ Updating 5b218e3d00..a4293e9b14
 get
 144
 Updating 5b218e3d00..87b90e0552
+[main d1cde97] 12/02/08:54 tidy auto update
+ 3 files changed, 304 insertions(+), 67 deletions(-)
+[main 85c7560] 12/02/08:54 final auto update
+ 105 files changed, 86535 insertions(+), 86372 deletions(-)
+ create mode 100644 MLP GPT/log/predict/500119065.out
+ create mode 100644 MLP GPT/log/predict/500119066.out
+ create mode 100644 MLP GPT/log/predict/500119067.out
+ create mode 100644 MLP GPT/log/predict/500119068.out
+ create mode 100644 MLP GPT/log/predict/500119069.out
+ create mode 100644 MLP GPT/log/predict/500119070.out
+ create mode 100644 MLP GPT/log/predict/500119071.out
+ create mode 100644 MLP GPT/log/predict/500119072.out
+ create mode 100644 MLP GPT/log/predict/500119074.out
+ create mode 100644 MLP GPT/log/predict/500119075.out
+ create mode 100644 MLP GPT/log/predict/500119076.out
+ create mode 100644 MLP GPT/log/predict/500119077.out
+ create mode 100644 MLP GPT/log/predict/500119078.out
+ create mode 100644 MLP GPT/log/predict/500119079.out
+ create mode 100644 MLP GPT/log/predict/500119080.out
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119064.tf/fingerprint.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119064.tf/keras_metadata.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119064.tf/saved_model.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119064.tf/variables/variables.data-00000-of-00001
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119064.tf/variables/variables.index
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119065.tf/fingerprint.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119065.tf/keras_metadata.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119065.tf/saved_model.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119065.tf/variables/variables.data-00000-of-00001
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119065.tf/variables/variables.index
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119066.tf/fingerprint.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119066.tf/keras_metadata.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119066.tf/saved_model.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119066.tf/variables/variables.data-00000-of-00001
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119066.tf/variables/variables.index
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119067.tf/fingerprint.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119067.tf/keras_metadata.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119067.tf/saved_model.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119067.tf/variables/variables.data-00000-of-00001
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119067.tf/variables/variables.index
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119068.tf/fingerprint.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119068.tf/keras_metadata.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119068.tf/saved_model.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119068.tf/variables/variables.data-00000-of-00001
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119068.tf/variables/variables.index
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119069.tf/fingerprint.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119069.tf/keras_metadata.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119069.tf/saved_model.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119069.tf/variables/variables.data-00000-of-00001
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119069.tf/variables/variables.index
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119070.tf/fingerprint.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119070.tf/keras_metadata.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119070.tf/saved_model.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119070.tf/variables/variables.data-00000-of-00001
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119070.tf/variables/variables.index
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119071.tf/fingerprint.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119071.tf/keras_metadata.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119071.tf/saved_model.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119071.tf/variables/variables.data-00000-of-00001
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119071.tf/variables/variables.index
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119072.tf/fingerprint.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119072.tf/keras_metadata.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119072.tf/saved_model.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119072.tf/variables/variables.data-00000-of-00001
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119072.tf/variables/variables.index
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119074.tf/fingerprint.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119074.tf/keras_metadata.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119074.tf/saved_model.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119074.tf/variables/variables.data-00000-of-00001
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119074.tf/variables/variables.index
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119076.tf/fingerprint.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119076.tf/keras_metadata.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119076.tf/saved_model.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119076.tf/variables/variables.data-00000-of-00001
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119076.tf/variables/variables.index
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119077.tf/fingerprint.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119077.tf/keras_metadata.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119077.tf/saved_model.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119077.tf/variables/variables.data-00000-of-00001
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119077.tf/variables/variables.index
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119078.tf/fingerprint.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119078.tf/keras_metadata.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119078.tf/saved_model.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119078.tf/variables/variables.data-00000-of-00001
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119078.tf/variables/variables.index
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119079.tf/fingerprint.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119079.tf/keras_metadata.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119079.tf/saved_model.pb
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119079.tf/variables/variables.data-00000-of-00001
+ create mode 100644 MLP GPT/model/hours/1021-1025[predict]/500119079.tf/variables/variables.index
+get
+145
+Updating 5b218e3d00..f2a4ed739b
