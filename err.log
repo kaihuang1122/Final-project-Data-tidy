@@ -2664,49 +2664,136 @@ error: Your local changes to the following files would be overwritten by merge:
 	release/20231201/5001
 Aborting
 mkdir: 1202version: File exists
-1092.tf/keras_metadata.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101092.tf/saved_model.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101092.tf/variables/variables.data-00000-of-00001 (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101092.tf/variables/variables.index (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101093.tf/fingerprint.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101093.tf/keras_metadata.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101093.tf/saved_model.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101093.tf/variables/variables.data-00000-of-00001 (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101093.tf/variables/variables.index (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101094.tf/fingerprint.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101094.tf/keras_metadata.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101094.tf/saved_model.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101094.tf/variables/variables.data-00000-of-00001 (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101094.tf/variables/variables.index (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101114.tf/fingerprint.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101114.tf/keras_metadata.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101114.tf/saved_model.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101114.tf/variables/variables.data-00000-of-00001 (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101114.tf/variables/variables.index (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101115.tf/fingerprint.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101115.tf/keras_metadata.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101115.tf/saved_model.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101115.tf/variables/variables.data-00000-of-00001 (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101115.tf/variables/variables.index (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101123.tf/fingerprint.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101123.tf/keras_metadata.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101123.tf/saved_model.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101123.tf/variables/variables.data-00000-of-00001 (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101123.tf/variables/variables.index (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101166.tf/fingerprint.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101166.tf/keras_metadata.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101166.tf/saved_model.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101166.tf/variables/variables.data-00000-of-00001 (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101166.tf/variables/variables.index (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101175.tf/fingerprint.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101175.tf/keras_metadata.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101175.tf/saved_model.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101175.tf/variables/variables.data-00000-of-00001 (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101175.tf/variables/variables.index (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101176.tf/fingerprint.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101176.tf/keras_metadata.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101176.tf/saved_model.pb (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101176.tf/variables/variables.data-00000-of-00001 (100%)
+To github.com:kaihuang1122/Final-project-Data-tidy.git
+   b36680c..2126fda  main -> main
+fatal: mmap failed: Operation canceled
+Everything up-to-date
+error: Your local changes to the following files would be overwritten by merge:
+	release/20231201/500101001.json
+	release/20231201/500101002.json
+	release/20231201/500101003.json
+	release/20231201/500101004.json
+	release/20231201/500101005.json
+	release/20231201/500101006.json
+	release/20231201/500101007.json
+	release/20231201/500101008.json
+	release/20231201/500101009.json
+	release/20231201/500101010.json
+	release/20231201/500101012.json
+	release/20231201/500101013.json
+	release/20231201/500101014.json
+	release/20231201/500101015.json
+	release/20231201/500101016.json
+	release/20231201/500101018.json
+	release/20231201/500101019.json
+	release/20231201/500101020.json
+	release/20231201/500101021.json
+	release/20231201/500101022.json
+	release/20231201/500101023.json
+	release/20231201/500101024.json
+	release/20231201/500101025.json
+	release/20231201/500101026.json
+	release/20231201/500101027.json
+	release/20231201/500101028.json
+	release/20231201/500101029.json
+	release/20231201/500101030.json
+	release/20231201/500101031.json
+	release/20231201/500101032.json
+	release/20231201/500101033.json
+	release/20231201/500101034.json
+	release/20231201/500101035.json
+	release/20231201/500101036.json
+	release/20231201/500101037.json
+	release/20231201/500101038.json
+	release/20231201/500101039.json
+	release/20231201/500101040.json
+	release/20231201/500101041.json
+	release/20231201/500101042.json
+	release/20231201/500101091.json
+	release/20231201/500101092.json
+	release/20231201/500101093.json
+	release/20231201/500101094.json
+	release/20231201/500101095.json
+	release/20231201/500101097.json
+	release/20231201/500101098.json
+	release/20231201/500101099.json
+	release/20231201/500101100.json
+	release/20231201/500101101.json
+	release/20231201/500101102.json
+	release/20231201/500101103.json
+	release/20231201/500101104.json
+	release/20231201/500101105.json
+	release/20231201/500101107.json
+	release/20231201/500101108.json
+	release/20231201/500101109.json
+	release/20231201/500101110.json
+	release/20231201/500101111.json
+	release/20231201/500101113.json
+	release/20231201/500101114.json
+	release/20231201/500101115.json
+	release/20231201/500101116.json
+	release/20231201/500101117.json
+	release/20231201/500101118.json
+	release/20231201/500101119.json
+	release/20231201/500101120.json
+	release/20231201/500101122.json
+	release/20231201/500101123.json
+	release/20231201/500101124.json
+	release/20231201/500101125.json
+	release/20231201/500101126.json
+	release/20231201/500101127.json
+	release/20231201/500101128.json
+	release/20231201/500101129.json
+	release/20231201/500101130.json
+	release/20231201/500101131.json
+	release/20231201/500101132.json
+	release/20231201/500101133.json
+	release/20231201/500101134.json
+	release/20231201/500101135.json
+	release/20231201/500101136.json
+	release/20231201/500101137.json
+	release/20231201/500101138.json
+	release/20231201/500101139.json
+	release/20231201/500101140.json
+	release/20231201/500101141.json
+	release/20231201/500101142.json
+	release/20231201/500101143.json
+	release/20231201/500101144.json
+	release/20231201/500101145.json
+	release/20231201/500101146.json
+	release/20231201/500101147.json
+	release/20231201/500101148.json
+	release/20231201/500101149.json
+	release/20231201/500101150.json
+	release/20231201/500101151.json
+	release/20231201/500101152.json
+	release/20231201/500101153.json
+	release/20231201/500101154.json
+	release/20231201/500101155.json
+	release/20231201/500101156.json
+	release/20231201/500101157.json
+	release/20231201/500101158.json
+	release/20231201/500101159.json
+	release/20231201/500101160.json
+	release/20231201/500101161.json
+	release/20231201/500101163.json
+	release/20231201/500101165.json
+	release/20231201/500101166.json
+	release/20231201/500101167.json
+	release/20231201/500101168.json
+	release/20231201/500101169.json
+	release/20231201/500101170.json
+	release/20231201/500101171.json
+	release/20231201/500101172.json
+	release/20231201/500101173.json
+	release/20231201/500101174.json
+	release/20231201/500101175.json
+	release/20231201/500101176.json
+	release/20231201/500101177.json
+	release/20231201/5001
+Aborting
+mkdir: 1202version: File exists
+les.data-00000-of-00001 (100%)
  rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101176.tf/variables/variables.index (100%)
  rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101181.tf/fingerprint.pb (100%)
  rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101181.tf/keras_metadata.pb (100%)
@@ -4821,6 +4908,278 @@ get
 Updating 5b218e3d00..2a22b1268c
 [main b36680c] 12/02/14:07 tidy auto update
  4 files changed, 199 insertions(+), 58294 deletions(-)
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   Collecting/appending/data.csv
+	modified:   Collecting/ghostdriver.log
+	modified:   Collecting/temp/data.csv
+	modified:   Combination/main.py
+	modified:   Combination/predict.py
+	modified:   MLP GPT/gather.py
+	modified:   MLP GPT/log/predict/500101001.out
+	modified:   MLP GPT/log/predict/500101002.out
+	modified:   MLP GPT/log/predict/500101003.out
+	modified:   MLP GPT/log/predict/500101004.out
+	modified:   MLP GPT/log/predict/500101005.out
+	modified:   MLP GPT/log/predict/500101006.out
+	modified:   MLP GPT/log/predict/500101007.out
+	modified:   MLP GPT/log/predict/500101008.out
+	modified:   MLP GPT/log/predict/500101009.out
+	modified:   MLP GPT/log/predict/500101010.out
+	modified:   MLP GPT/log/predict/500101013.out
+	modified:   MLP GPT/log/predict/500101014.out
+	modified:   MLP GPT/log/predict/500101015.out
+	modified:   MLP GPT/log/predict/500101018.out
+	modified:   MLP GPT/log/predict/500101019.out
+	modified:   MLP GPT/log/predict/500101020.out
+	modified:   MLP GPT/log/predict/500101021.out
+	modified:   MLP GPT/log/predict/500101022.out
+	modified:   MLP GPT/log/predict/500101023.out
+	modified:   MLP GPT/log/predict/500101024.out
+	modified:   MLP GPT/log/predict/500101025.out
+	modified:   MLP GPT/log/predict/500101026.out
+	modified:   MLP GPT/log/predict/500101027.out
+	modified:   MLP GPT/log/predict/500101028.out
+	modified:   MLP GPT/log/predict/500101029.out
+	modified:   MLP GPT/log/predict/500101030.out
+	modified:   MLP GPT/log/predict/500101031.out
+	modified:   MLP GPT/log/predict/500101032.out
+	modified:   MLP GPT/log/predict/500101033.out
+	modified:   MLP GPT/log/predict/500101034.out
+	modified:   MLP GPT/log/predict/500101035.out
+	modified:   MLP GPT/log/predict/500101036.out
+	modified:   MLP GPT/log/predict/500101037.out
+	modified:   MLP GPT/log/predict/500101038.out
+	modified:   MLP GPT/log/predict/500101039.out
+	modified:   MLP GPT/log/predict/500101040.out
+	modified:   MLP GPT/log/predict/500101041.out
+	modified:   MLP GPT/log/predict/500101042.out
+	modified:   MLP GPT/log/predict/500101091.out
+	modified:   MLP GPT/log/predict/500101092.out
+	modified:   MLP GPT/log/predict/500101093.out
+	modified:   MLP GPT/log/predict/500101094.out
+	modified:   MLP GPT/log/predict/500101114.out
+	modified:   MLP GPT/log/predict/500101115.out
+	modified:   MLP GPT/log/predict/500101123.out
+	modified:   MLP GPT/log/predict/500101166.out
+	modified:   MLP GPT/log/predict/500101175.out
+	modified:   MLP GPT/log/predict/500101176.out
+	modified:   MLP GPT/log/predict/500101181.out
+	modified:   MLP GPT/log/predict/500101184.out
+	modified:   MLP GPT/log/predict/500101185.out
+	modified:   MLP GPT/log/predict/500101188.out
+	modified:   MLP GPT/log/predict/500101189.out
+	modified:   MLP GPT/log/predict/500101190.out
+	modified:   MLP GPT/log/predict/500101191.out
+	modified:   MLP GPT/log/predict/500101193.out
+	modified:   MLP GPT/log/predict/500101199.out
+	modified:   MLP GPT/log/predict/500101209.out
+	modified:   MLP GPT/log/predict/500101216.out
+	modified:   MLP GPT/log/predict/500101219.out
+	modified:   MLP GPT/log/predict/500105066.out
+	modified:   MLP GPT/log/predict/500106002.out
+	modified:   MLP GPT/log/predict/500106003.out
+	modified:   MLP GPT/log/predict/500106004.out
+	modified:   MLP GPT/log/predict/500119043.out
+	modified:   MLP GPT/log/predict/500119044.out
+	modified:   MLP GPT/log/predict/500119045.out
+	modified:   MLP GPT/log/predict/500119046.out
+	modified:   MLP GPT/log/predict/500119047.out
+	modified:   MLP GPT/log/predict/500119048.out
+	modified:   MLP GPT/log/predict/500119049.out
+	modified:   MLP GPT/log/predict/500119050.out
+	modified:   MLP GPT/log/predict/500119051.out
+	modified:   MLP GPT/log/predict/500119052.out
+	modified:   MLP GPT/log/predict/500119053.out
+	modified:   MLP GPT/log/predict/500119054.out
+	modified:   MLP GPT/log/predict/500119055.out
+	modified:   MLP GPT/log/predict/500119056.out
+	modified:   MLP GPT/log/predict/500119057.out
+	modified:   MLP GPT/log/predict/500119058.out
+	modified:   MLP GPT/log/predict/500119059.out
+	modified:   MLP GPT/log/predict/500119060.out
+	modified:   MLP GPT/log/predict/500119061.out
+	modified:   MLP GPT/log/predict/500119062.out
+	modified:   MLP GPT/log/predict/500119063.out
+	modified:   MLP GPT/log/predict/500119064.out
+	modified:   MLP GPT/log/predict/500119065.out
+	modified:   MLP GPT/log/predict/500119066.out
+	modified:   MLP GPT/log/predict/500119067.out
+	modified:   MLP GPT/log/predict/500119068.out
+	modified:   MLP GPT/log/predict/500119069.out
+	modified:   MLP GPT/log/predict/500119070.out
+	modified:   MLP GPT/log/predict/500119071.out
+	modified:   MLP GPT/log/predict/500119072.out
+	modified:   MLP GPT/log/predict/500119074.out
+	modified:   MLP GPT/log/predict/500119075.out
+	modified:   MLP GPT/log/predict/500119076.out
+	modified:   MLP GPT/log/predict/500119077.out
+	modified:   MLP GPT/log/predict/500119078.out
+	modified:   MLP GPT/log/predict/500119079.out
+	modified:   MLP GPT/log/predict/500119080.out
+	modified:   MLP GPT/log/predict/500119081.out
+	modified:   MLP GPT/log/predict/500119082.out
+	modified:   MLP GPT/log/predict/500119083.out
+	modified:   MLP GPT/log/predict/500119084.out
+	modified:   MLP GPT/log/predict/500119085.out
+	modified:   MLP GPT/log/predict/500119086.out
+	modified:   MLP GPT/log/predict/500119087.out
+	modified:   MLP GPT/log/predict/500119088.out
+	modified:   MLP GPT/log/predict/500119089.out
+	modified:   MLP GPT/log/predict/500119090.out
+	modified:   MLP GPT/log/predict/500119091.out
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101001.tf/fingerprint.pb
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101001.tf/keras_metadata.pb
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101001.tf/saved_model.pb
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101001.tf/variables/variables.data-00000-of-00001
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101001.tf/variables/variables.index
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101002.tf/fingerprint.pb
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101002.tf/keras_metadata.pb
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101002.tf/saved_model.pb
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101002.tf/variables/variables.data-00000-of-00001
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101002.tf/variables/variables.index
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101003.tf/fingerprint.pb
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101003.tf/keras_metadata.pb
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101003.tf/saved_model.pb
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101003.tf/variables/variables.data-00000-of-00001
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101003.tf/variables/variables.index
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101004.tf/fingerprint.pb
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101004.tf/keras_metadata.pb
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101004.tf/saved_model.pb
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101004.tf/variables/variables.data-00000-of-00001
+	modified:   MLP GPT/model/hours/1021-1025[predict]/500101004.tf/variables/variables.index
+	modified:   MLP GPT/output/predict/500101001.csv
+	modified:   MLP GPT/output/predict/500101002.csv
+	modified:   MLP GPT/output/predict/500101003.csv
+	modified:   MLP GPT/output/predict/500101004.csv
+	modified:   MLP GPT/output/predict/500101005.csv
+	modified:   MLP GPT/output/predict/500101006.csv
+	modified:   MLP GPT/output/predict/500101007.csv
+	modified:   MLP GPT/output/predict/500101008.csv
+	modified:   MLP GPT/output/predict/500101009.csv
+	modified:   MLP GPT/output/predict/500101010.csv
+	modified:   MLP GPT/output/predict/500101013.csv
+	modified:   MLP GPT/output/predict/500101014.csv
+	modified:   MLP GPT/output/predict/500101015.csv
+	modified:   MLP GPT/output/predict/500101018.csv
+	modified:   MLP GPT/output/predict/500101019.csv
+	modified:   MLP GPT/output/predict/500101020.csv
+	modified:   MLP GPT/output/predict/500101021.csv
+	modified:   MLP GPT/output/predict/500101022.csv
+	modified:   MLP GPT/output/predict/500101023.csv
+	modified:   MLP GPT/output/predict/500101024.csv
+	modified:   MLP GPT/output/predict/500101025.csv
+	modified:   MLP GPT/output/predict/500101026.csv
+	modified:   MLP GPT/output/predict/500101027.csv
+	modified:   MLP GPT/output/predict/500101028.csv
+	modified:   MLP GPT/output/predict/500101029.csv
+	modified:   MLP GPT/output/predict/500101030.csv
+	modified:   MLP GPT/output/predict/500101031.csv
+	modified:   MLP GPT/output/predict/500101032.csv
+	modified:   MLP GPT/output/predict/500101033.csv
+	modified:   MLP GPT/output/predict/500101034.csv
+	modified:   MLP GPT/output/predict/500101035.csv
+	modified:   MLP GPT/output/predict/500101036.csv
+	modified:   MLP GPT/output/predict/500101037.csv
+	modified:   MLP GPT/output/predict/500101038.csv
+	modified:   MLP GPT/output/predict/500101039.csv
+	modified:   MLP GPT/output/predict/500101040.csv
+	modified:   MLP GPT/output/predict/500101041.csv
+	modified:   MLP GPT/output/predict/500101042.csv
+	modified:   MLP GPT/output/predict/500101091.csv
+	modified:   MLP GPT/output/predict/500101092.csv
+	modified:   MLP GPT/output/predict/500101093.csv
+	modified:   MLP GPT/output/predict/500101094.csv
+	modified:   MLP GPT/output/predict/500101114.csv
+	modified:   MLP GPT/output/predict/500101115.csv
+	modified:   MLP GPT/output/predict/500101123.csv
+	modified:   MLP GPT/output/predict/500101166.csv
+	modified:   MLP GPT/output/predict/500101175.csv
+	modified:   MLP GPT/output/predict/500101176.csv
+	modified:   MLP GPT/output/predict/500101181.csv
+	modified:   MLP GPT/output/predict/500101184.csv
+	modified:   MLP GPT/output/predict/500101185.csv
+	modified:   MLP GPT/output/predict/500101188.csv
+	modified:   MLP GPT/output/predict/500101189.csv
+	modified:   MLP GPT/output/predict/500101190.csv
+	modified:   MLP GPT/output/predict/500101191.csv
+	modified:   MLP GPT/output/predict/500101193.csv
+	modified:   MLP GPT/output/predict/500101199.csv
+	modified:   MLP GPT/output/predict/500101209.csv
+	modified:   MLP GPT/output/predict/500101216.csv
+	modified:   MLP GPT/output/predict/500101219.csv
+	modified:   MLP GPT/output/predict/500105066.csv
+	modified:   MLP GPT/output/predict/500106002.csv
+	modified:   MLP GPT/output/predict/500106003.csv
+	modified:   MLP GPT/output/predict/500106004.csv
+	modified:   MLP GPT/output/predict/500119043.csv
+	modified:   MLP GPT/output/predict/500119044.csv
+	modified:   MLP GPT/output/predict/500119045.csv
+	modified:   MLP GPT/output/predict/500119046.csv
+	modified:   MLP GPT/output/predict/500119047.csv
+	modified:   MLP GPT/output/predict/500119048.csv
+	modified:   MLP GPT/output/predict/500119049.csv
+	modified:   MLP GPT/output/predict/500119050.csv
+	modified:   MLP GPT/output/predict/500119051.csv
+	modified:   MLP GPT/output/predict/500119052.csv
+	modified:   MLP GPT/output/predict/500119053.csv
+	modified:   MLP GPT/output/predict/500119054.csv
+	modified:   MLP GPT/output/predict/500119055.csv
+	modified:   MLP GPT/output/predict/500119056.csv
+	modified:   MLP GPT/output/predict/500119057.csv
+	modified:   MLP GPT/output/predict/500119058.csv
+	modified:   MLP GPT/output/predict/500119059.csv
+	modified:   MLP GPT/output/predict/500119060.csv
+	modified:   MLP GPT/output/predict/500119061.csv
+	modified:   MLP GPT/output/predict/500119062.csv
+	modified:   MLP GPT/output/predict/500119063.csv
+	modified:   MLP GPT/output/predict/500119064.csv
+	modified:   MLP GPT/output/predict/500119065.csv
+	modified:   MLP GPT/output/predict/500119066.csv
+	modified:   MLP GPT/output/predict/500119067.csv
+	modified:   MLP GPT/output/predict/500119068.csv
+	modified:   MLP GPT/output/predict/500119069.csv
+	modified:   MLP GPT/output/predict/500119070.csv
+	modified:   MLP GPT/output/predict/500119071.csv
+	modified:   MLP GPT/output/predict/500119072.csv
+	modified:   MLP GPT/output/predict/500119074.csv
+	modified:   MLP GPT/output/predict/500119075.csv
+	modified:   MLP GPT/output/predict/500119076.csv
+	modified:   MLP GPT/output/predict/500119077.csv
+	modified:   MLP GPT/output/predict/500119078.csv
+	modified:   MLP GPT/output/predict/500119079.csv
+	modified:   MLP GPT/output/predict/500119080.csv
+	modified:   MLP GPT/output/predict/500119081.csv
+	modified:   MLP GPT/output/predict/500119082.csv
+	modified:   MLP GPT/output/predict/500119083.csv
+	modified:   MLP GPT/output/predict/500119084.csv
+	modified:   MLP GPT/output/predict/500119085.csv
+	modified:   MLP GPT/output/predict/500119086.csv
+	modified:   MLP GPT/output/predict/500119087.csv
+	modified:   MLP GPT/output/predict/500119088.csv
+	modified:   MLP GPT/output/predict/500119089.csv
+	modified:   MLP GPT/output/predict/500119090.csv
+	modified:   MLP GPT/output/predict/500119091.csv
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	Combination/hours/1002-1127/
+	Combination/hours/1127-1202/
+	MLP GPT/MSErr.py
+	"MLP GPT/epoch\\ count.csv"
+	MLP GPT/model/hours/1127-1202/
+	"epoch\\ count.csv"
+
+no changes added to commit (use "git add" and/or "git commit -a")
+get
+143
+Updating 5b218e3d00..2a22b1268c
+[main 2126fda] 12/02/14:51 tidy auto update
+ 4 files changed, 58749 insertions(+), 43 deletions(-)
 On branch main
 Your branch is up to date with 'origin/main'.
 

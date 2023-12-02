@@ -1,5 +1,11 @@
 # Final Project Data Tidy
 
+## 12/02 公告
+
+Weather資料夾裡有兩個不同的檔案，叫做 Weatherdata.csv跟fixeddata.csv
+
+Weatherdata.csv紀錄的是當日累計雨量，fixeddata.csv紀錄的是過去一小時的小時雨量。
+
 ## 11/30 UPD 發布預測資料
 
 型態為： 預報時間 溫度 雨量 相對濕度
