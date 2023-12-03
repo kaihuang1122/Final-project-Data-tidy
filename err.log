@@ -2793,8 +2793,9 @@ error: Your local changes to the following files would be overwritten by merge:
 	release/20231201/5001
 Aborting
 mkdir: 1202version: File exists
-les.data-00000-of-00001 (100%)
- rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101176.tf/variables/variables.index (100%)
+To github.com:kaihuang1122/Final-project-Data-tidy.git
+   2126fda..dc3ff72  main -> main
+/500101176.tf/variables/variables.index (100%)
  rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101181.tf/fingerprint.pb (100%)
  rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101181.tf/keras_metadata.pb (100%)
  rename MLP GPT/model/{1021-1025[predict] => predict[e=2]}/500101181.tf/saved_model.pb (100%)
@@ -5450,3 +5451,5 @@ no changes added to commit (use "git add" and/or "git commit -a")
 get
 143
 Updating 5b218e3d00..2a22b1268c
+[main dc3ff72] 12/02/15:36 tidy auto update
+ 4 files changed, 508 insertions(+), 43 deletions(-)
