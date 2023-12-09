@@ -1,5 +1,9 @@
 # Final Project Data Tidy
 
+## 12/09 公告
+
+
+
 ## 12/02 公告
 
 Weather資料夾裡有兩個不同的檔案，叫做 Weatherdata.csv跟fixeddata.csv
